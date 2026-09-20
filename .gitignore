@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.wav
+server_data/
+broker/certs/
+mock_ssd_keys.json
+.env
+*.key
+*.pem
